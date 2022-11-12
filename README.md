@@ -13,4 +13,4 @@ Created class manager REST API that performs CRUD operations on users and classe
 
 ## Deployment:
 
-[Live Site](https://classmanagerapi.herokuapp.com)
+[Live Site](https://classmanager-api.up.railway.app)
